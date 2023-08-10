@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "971235577427",
+    "project_id": "snapmemo-99aa3",
+    "storage_bucket": "snapmemo-99aa3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971235577427:android:cfc218f2a533dac82740a6",
+        "android_client_info": {
+          "package_name": "com.example.snapmemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971235577427-d8cccrhksvgalgp8kfrofvhd42m7f2nt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXkKeSd3q3KyW871umDIT0sq_22lyL-3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971235577427-d8cccrhksvgalgp8kfrofvhd42m7f2nt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
