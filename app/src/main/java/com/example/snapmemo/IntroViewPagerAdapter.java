@@ -1,5 +1,9 @@
 package com.example.snapmemo;
 
+// Nama : Wildan Yusup
+// Nim : 10120048
+// Kelas : IF2
+
 import android.content.Context;
 import android.view.LayoutInflater;
 import android.view.View;
