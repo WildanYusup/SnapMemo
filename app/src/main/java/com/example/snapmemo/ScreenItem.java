@@ -1,5 +1,9 @@
     package com.example.snapmemo;
 
+// Nama : Wildan Yusup
+// Nim : 10120048
+// Kelas : IF2
+
     public class ScreenItem {
 
         String Title,Description;
